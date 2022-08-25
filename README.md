@@ -6,7 +6,6 @@
 https://yishanstephyhung.github.io/coffeeshop-webapp/
 
 ## Intro
----
 這是一個使用 vue cli 及 vue router 製作的咖啡訂單系統。
 
 > #### 安裝
