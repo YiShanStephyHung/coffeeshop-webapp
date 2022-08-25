@@ -4,7 +4,7 @@
 
 ## Demo
 ---
-
+https://yishanstephyhung.github.io/coffeeshop-webapp/
 
 ## Intro
 ---
@@ -29,7 +29,7 @@ npm install -g @vue/cli
 > #### 流程
 + 新增訂單
     1. 確認必填輸入框是否填寫，若沒有則出現Error提示文字。
-    2. 價格
+    2. 價格在新增時只能填入正整數。
     2. 判斷若無Error則push到訂單Array裡。
     3. 清空輸入欄。
 + 刪除單筆訂單
