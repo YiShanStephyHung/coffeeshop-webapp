@@ -3,7 +3,6 @@
 ![完成圖片](./src/assets/coffeeshop.png)
 
 ## Demo
----
 https://yishanstephyhung.github.io/coffeeshop-webapp/
 
 ## Intro
